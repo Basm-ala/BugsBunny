@@ -15,7 +15,7 @@ body {
 }
 
 .hh {
-    width: 100%; /* عرض كامل */
+    width: 100%; 
     text-align: center;
     background-color: rgb(185, 164, 136);
     padding: 50px 20px;
@@ -34,12 +34,12 @@ body {
 }
 
 .nn {
-    width: 50%; /* عرض النموذج */
-    padding: 30px; /* زيادة المساحة داخل النموذج */
-    background-color: rgba(255, 255, 255, 0.5 ); /* خلفية بيضاء للنموذج */
-    border-radius: 10px; /* زوايا دائرية */
+    width: 50%; 
+    padding: 30px; 
+    background-color: rgba(255, 255, 255, 0.5 );
+    border-radius: 10px; 
     border: 2px solid #007A3D;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* تأثير ظل */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); 
 }
 h1{
     color: #007A3D;
@@ -48,24 +48,24 @@ h1{
 }
 
 .form-group {
-    margin-bottom: 20px; /* مسافة بين الحقول */
+    margin-bottom: 20px; 
 }
 
 .form-group label {
-    display: block; /* جعل الملصق كتلة */
-    margin-bottom: 8px; /* مسافة تحت الملصق */
-    font-weight: bold; /* جعل النص غامق */
-    font-size: 18px; /* زيادة حجم النص */
+    display: block; 
+    margin-bottom: 8px; 
+    font-weight: bold; 
+    font-size: 18px; 
 }
 
 .form-group input[type="date"],
 .form-group input[type="number"],
 .form-group input[type="range"] {
-    width: 100%; /* عرض كامل */
-    padding: 15px; /* مساحة داخلية */
-    border: 1px solid #ccc; /* إطار خفيف */
-    border-radius: 5px; /* زوايا دائرية */
-    font-size: 16px; /* حجم خط أكبر */
+    width: 100%; 
+    padding: 15px; 
+    border: 1px solid #ccc; 
+    border-radius: 5px; 
+    font-size: 16px; 
 }
 
 .submit-btn {
